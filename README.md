@@ -10,4 +10,8 @@ Welcome to my GitHub profile! Here's a quick summary of my skills and stats.
 
 | 🌟 **Profile Views** | 🌐 **Connect with Me** |
 |----------------------|------------------------|
-| ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mitaksh0&title=Profile%20Views) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://linkedin.com/in/mitakshbh
+| ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mitaksh0&title=Profile%20Views) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mitaksh-bhardwaj)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mitaksh.cc) |
+
+---
+
+Feel free to connect with me, and check out my projects below! 👇
